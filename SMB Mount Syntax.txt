@@ -1,0 +1,1 @@
+open smb://$user@SERVER/SHARE
